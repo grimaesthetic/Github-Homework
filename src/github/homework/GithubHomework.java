@@ -8,7 +8,7 @@ public class GithubHomework {
             numbers[x] = x+1;
             System.out.println(numbers[x]);
             
-            System.out.println("Nice job.");
+            System.out.println("Nice.");
         }
     }
     
